@@ -1,4 +1,4 @@
-import { FaDiscord, FaInstagram, FaTwitter, FaYoutube,} from "react-icons/fa";
+import { FaDiscord, FaInstagram, FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
 
 const socialLinks = [
